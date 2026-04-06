@@ -15,3 +15,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chhayakanta-Maharana&theme=tokyonight" />
 </p>
 
+![snake gif](https://github.com/Chhayakanta-Maharana/Chhayakanta-Maharana/blob/output/github-snake-dark.svg)
+
